@@ -1,5 +1,5 @@
-I am not sure if it works, just a little hopeful.
-Here I use 'sprite'(synonyms are elf, fairy) to refer to the works,which can be artwork, product technology, process and so on.  I use 'designer' to refer to their various author roles.
+I am not sure if it works, just a little hopeful.\
+Here I use 'sprite'(synonyms are elf, fairy) to refer to the works,which can be artwork, product technology, process and so on.  I use 'designer' to refer to their various author roles.\
 A designer for a sprite, is a writer for a novel, a director for a movie, a manager for the management framework, a seller for sell policy, Jobs for iPhone, IceFrog for Dota.
 
 This model tries to use fork mechanism to take place of employment. Owners of the sprite no longer interview and hire a designer, but allow everyone to create a branch and work standalone on it, then they watch and transfer their investment to good branches.
