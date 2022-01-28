@@ -1,2 +1,2 @@
 # FEModel
-an economic model based on fork mechanism
+an Economic Model based on Fork mechanism
